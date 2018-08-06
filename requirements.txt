@@ -1,0 +1,7 @@
+torch>=1.0
+numpy>=1.14
+SimpleITK>=1.1
+scipy>=1.1
+scikit-image>=0.14
+matplotlib>=2.2
+pandas>=0.23
