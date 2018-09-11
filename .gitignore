@@ -1,0 +1,7 @@
+__pycache__/
+checkpoints/
+data/
+*.pt
+*.npy
+*.npz
+.DS_Store
